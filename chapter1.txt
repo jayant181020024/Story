@@ -1,1 +1,1 @@
-Hi,there I am Jayant Devmore writing this message to learn git and github basically the version control system.
+Hi,there I am Jayant Devmore writing this message to learn git and github basically the version control system. this is just me demonstrating the git branch lecture.
